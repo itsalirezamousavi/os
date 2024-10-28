@@ -35,7 +35,9 @@ void sortStudents(vector<Student> &students, const string &sortBy) {
 int main() {
     vector<Student> students = {
         {"Arya", "Aghayipoor", 101},
-        {"mehdi", "afshari", 103}
+        {"mehdi", "afshari", 103},
+         {"mehdi", "afshariii", 104},
+        {"mehdi", "afsh", 105}
     };
 
     string sortBy;
