@@ -36,8 +36,11 @@ int main() {
     vector<Student> students = {
         {"Arya", "Aghayipoor", 101},
         {"mehdi", "afshari", 103},
-         {"mehdi", "afshariii", 104},
+        {"mehdi", "afshariii", 104},
         {"mehdi", "afsh", 105}
+        {"alireza", "mousavi", 106}
+        {"rozhina", "latifi", 107}
+
     };
 
     string sortBy;
